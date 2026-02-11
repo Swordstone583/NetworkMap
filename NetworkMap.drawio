@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="fDscAtd7j0gyai1GkG-h">
-    <mxGraphModel dx="2453" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,11 +15,6 @@
         <mxCell id="zc2dFxi8OndawG-x7JBW-5" edge="1" parent="1" source="zc2dFxi8OndawG-x7JBW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rDCsqAMXKagoSmfR9yvD-1" edge="1" parent="1" source="zc2dFxi8OndawG-x7JBW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rDCsqAMXKagoSmfR9yvD-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820.0000000000005" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zc2dFxi8OndawG-x7JBW-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="10.0.0.33/27, 10.50.189.76&lt;div&gt;Hostname: Red-internet-Host&lt;/div&gt;" vertex="1">
@@ -166,9 +161,6 @@
         </mxCell>
         <mxCell id="zc2dFxi8OndawG-x7JBW-50" edge="1" parent="1" source="zc2dFxi8OndawG-x7JBW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="zc2dFxi8OndawG-x7JBW-48">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rDCsqAMXKagoSmfR9yvD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="172.16.140.35&lt;div&gt;HN:red-int-dmz2-host-2&lt;/div&gt;&lt;div&gt;ports: 22&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="240" x="880" y="285" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
